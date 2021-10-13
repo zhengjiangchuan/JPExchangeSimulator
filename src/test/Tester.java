@@ -19,7 +19,7 @@ import static org.junit.Assert.assertTrue;
 
 public class Tester {
 
-
+    //Set up for testing
     private Pair<ExchangeSimulator, List<Client>> setUp() {
         PrintWriter stdOut = new PrintWriter(System.out);
 
